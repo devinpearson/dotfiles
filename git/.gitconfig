@@ -47,3 +47,5 @@
 	    fi; \
 	}; f"
 	pull = pull --ff-only
+[commit]
+	template = /Users/devinpearson/.stCommitMsg

@@ -1,6 +1,2 @@
 laravel/installer
-laravel/envoy
-phpmd/phpmd
-phpmetrics/phpmetricS
-infection/infection
-friendsofphp/php-cs-fixer
+laravel/valet
